@@ -1,0 +1,8 @@
+bin/
+target/
+gen/
+eclipse-workspace/
+runtime-*/
+.metadata
+*.ppm
+
